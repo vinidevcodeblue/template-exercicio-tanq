@@ -1,5 +1,7 @@
 # Projeto Exercício 4 
 
+*[Template com GitHub Pages](https://vinidevcodeblue.github.io/template-exercicio-tanq/)*
+
 ## Figma Desktop 
 <br>
 
