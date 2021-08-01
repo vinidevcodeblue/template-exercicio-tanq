@@ -498,7 +498,7 @@ footer {
       height: 100%;
       margin-bottom: 50px;
       padding: 31px 0 32px;
-      background-image: url(../imagens/mobile/backgroundTexture.png),url(../imagens/mobile/flower01.png),url(../imagens/mobile/flower02.png);
+      background: url(../imagens/mobile/background-tickets.png) no-repeat;
     }
     section.festivalIngresso article {
       flex-direction: column;
