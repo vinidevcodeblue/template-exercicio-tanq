@@ -257,6 +257,16 @@ section.festival-sliderEspacos figure {
   align-items: center;
   gap: 24px;
 }
+section.festival-sliderEspacos .slider .actionBack ,
+section.festival-sliderEspacos .slider .actionGo {
+  width: 60px;
+  height: 60px;
+  background: #F2F2F2;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
 section.festivalIngresso {
   text-align: center;
   padding: 80px 0;
