@@ -348,7 +348,8 @@ article.seguranca p {
 article.seguranca figure{position: relative;}
 article.seguranca img,
 .festa img {width: auto;}
-article.seguranca img:first-child {
+article.seguranca img:first-child,
+article.seguranca img:nth-child(3) {
   position: absolute;
   top: 35%;left: 50%;
   transform: translate(-50%,50%);
